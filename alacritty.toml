@@ -1,0 +1,17 @@
+
+[colors]
+[colors.primary]
+background = "#150000"
+foreground = "#ffffff"
+[window]
+opacity = 1
+[font]
+size = 16
+#normal = { family = "Source Code Pro", style = "SemiBold" }
+#normal = { family = "Anonymice Pro Nerd Font Mono", style = "Regular" }
+normal = { family = "Inconsolata Nerd Font Mono", style = "Regular" }
+
+[terminal]
+
+shell = "/bin/fish"
+
